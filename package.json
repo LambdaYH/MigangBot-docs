@@ -1,0 +1,19 @@
+{
+  "name": "migangbot-docs",
+  "version": "0.0.1",
+  "description": "基于Nonebot2的米缸Bot",
+  "main": "index.js",
+  "authors": {
+    "name": "",
+    "email": ""
+  },
+  "repository": "https://github.com/LambdaYH/MigangBot/migangbot-docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
